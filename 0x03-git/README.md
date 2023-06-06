@@ -1,2 +1,2 @@
-## ALX zaro day
+## ALX zero day
 My first readme
