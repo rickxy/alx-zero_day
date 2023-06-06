@@ -1,2 +1,2 @@
-##ALX zaro day
+## ALX zaro day
 My first readme
